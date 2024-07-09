@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dinesh5039/LEETCODE/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/dinesh5039/LEETCODE/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dinesh5039/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/dinesh5039/LEETCODE/tree/master/0290-word-pattern) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dinesh5039/LEETCODE/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dinesh5039/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
