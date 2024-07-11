@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/dinesh5039/LEETCODE/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/dinesh5039/LEETCODE/tree/master/0412-fizz-buzz) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dinesh5039/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dinesh5039/LEETCODE/tree/master/1720-crawler-log-folder) |
 ## Dynamic Programming
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dinesh5039/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dinesh5039/LEETCODE/tree/master/1720-crawler-log-folder) |
 ## Binary Search
 |  |
