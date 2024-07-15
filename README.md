@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/dinesh5039/LEETCODE/tree/master/0290-word-pattern) |
+| [0726-number-of-atoms](https://github.com/dinesh5039/LEETCODE/tree/master/0726-number-of-atoms) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dinesh5039/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/dinesh5039/LEETCODE/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/dinesh5039/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0726-number-of-atoms](https://github.com/dinesh5039/LEETCODE/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dinesh5039/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dinesh5039/LEETCODE/tree/master/1720-crawler-log-folder) |
 ## Dynamic Programming
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/dinesh5039/LEETCODE/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dinesh5039/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dinesh5039/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/dinesh5039/LEETCODE/tree/master/2846-robot-collisions) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/dinesh5039/LEETCODE/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/dinesh5039/LEETCODE/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
