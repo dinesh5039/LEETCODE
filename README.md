@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dinesh5039/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [1333-sort-the-jumbled-numbers](https://github.com/dinesh5039/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
 | [1720-crawler-log-folder](https://github.com/dinesh5039/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/dinesh5039/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dinesh5039/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/dinesh5039/LEETCODE/tree/master/0726-number-of-atoms) |
+| [1333-sort-the-jumbled-numbers](https://github.com/dinesh5039/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
 | [2846-robot-collisions](https://github.com/dinesh5039/LEETCODE/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
