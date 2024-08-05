@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/dinesh5039/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/dinesh5039/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dinesh5039/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/dinesh5039/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dinesh5039/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/dinesh5039/LEETCODE/tree/master/2846-robot-collisions) |
 ## Recursion
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/dinesh5039/LEETCODE/tree/master/0290-word-pattern) |
 | [0726-number-of-atoms](https://github.com/dinesh5039/LEETCODE/tree/master/0726-number-of-atoms) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/dinesh5039/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dinesh5039/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/dinesh5039/LEETCODE/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dinesh5039/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/dinesh5039/LEETCODE/tree/master/1720-crawler-log-folder) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/dinesh5039/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dinesh5039/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/dinesh5039/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
