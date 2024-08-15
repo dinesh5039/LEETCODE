@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/dinesh5039/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
 | [1720-crawler-log-folder](https://github.com/dinesh5039/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/dinesh5039/LEETCODE/tree/master/1803-average-waiting-time) |
+| [1835-decode-xored-permutation](https://github.com/dinesh5039/LEETCODE/tree/master/1835-decode-xored-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dinesh5039/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dinesh5039/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/dinesh5039/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dinesh5039/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1835-decode-xored-permutation](https://github.com/dinesh5039/LEETCODE/tree/master/1835-decode-xored-permutation) |
 <!---LeetCode Topics End-->
